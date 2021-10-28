@@ -1,0 +1,2 @@
+# scrugtest
+Example for SCRUG
